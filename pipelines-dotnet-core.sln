@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pipelines-dotnet-core", "pipelines-dotnet-core.csproj", "{BB664BDC-5BA0-432A-BF53-EB1D2C2CDF84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipelinesTests", "..\PipelinesTests\PipelinesTests.csproj", "{B8E47E90-BABA-41B9-A07E-76CE33259138}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{BB664BDC-5BA0-432A-BF53-EB1D2C2CDF84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB664BDC-5BA0-432A-BF53-EB1D2C2CDF84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB664BDC-5BA0-432A-BF53-EB1D2C2CDF84}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B8E47E90-BABA-41B9-A07E-76CE33259138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B8E47E90-BABA-41B9-A07E-76CE33259138}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B8E47E90-BABA-41B9-A07E-76CE33259138}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B8E47E90-BABA-41B9-A07E-76CE33259138}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
